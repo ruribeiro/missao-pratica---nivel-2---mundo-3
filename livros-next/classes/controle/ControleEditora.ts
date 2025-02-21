@@ -5,7 +5,7 @@ const editoras: Array<Editora> = [
     {codEditora:2, nome:'Record'},
     {codEditora:3, nome:'Flecha'},
     { codEditora:4, nome:'Irradiação'},
-    {codEditora:5, nome:'Fluentes'},
+    {codEditora:5, nome:'Fluentess'},
 ];
 
 export default class ControleEditora {
